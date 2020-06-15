@@ -1,0 +1,130 @@
+   .jumbotron {
+       margin: 0px auto;
+       padding: 70px 20px 70px 20px;
+       color: floralwhite;
+       background-color: darkslategrey;
+   }
+   
+   .row-content {
+       margin: 0px auto;
+       padding: 50px 0px 50px 0px;
+       min-height: 400px;
+   }
+   
+   .row-content2 {
+       margin: 0px auto;
+       padding: 50px 0px 50px 0px;
+       min-height: 400px;
+   }
+   
+   .footer {
+       margin: 0px auto;
+       padding: 50px 0px 50px 0px;
+       background-color: #dddd;
+       min-height: 310px;
+   }
+   
+   .address {
+       font-size: 100%;
+       color: black;
+   }
+   
+   .navbar {
+       background-color: navy;
+   }
+   
+   .navbar-dark {
+       background: black;
+   }
+   
+   body {
+       padding: 50px 0px 0px 0px;
+       z-index: 0;
+   }
+   
+   .tab-content {
+       border-left: 1px solid #ddd;
+       border-right: 1px solid #ddd;
+       border-bottom: 1px solid #ddd;
+       padding: 10px;
+   }
+   
+   .carousel-item {
+       background: purple;
+   }
+   
+   .crsl {
+       color: ghostwhite;
+   }
+   
+   #carouselButton {
+       right: 0px;
+       position: absolute;
+       bottom: 0px;
+       z-index: 2;
+   }
+   
+   #index {
+       background-image: url(https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   #digital {
+       background-image: url(https://images.pexels.com/photos/917494/pexels-photo-917494.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   #oilpaintings {
+       background-image: url(https://images.pexels.com/photos/2276928/pexels-photo-2276928.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   #sketches {
+       background-image: url(https://images.pexels.com/photos/408517/pexels-photo-408517.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   #watercolor {
+       background-image: url(https://images.pexels.com/photos/509880/pexels-photo-509880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   #artists {
+       background-image: url(https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   #maintxt {
+       font-size: 10vw;
+       padding-top: 80px;
+   }
+   
+   .flex-column {
+       max-width: 40%;
+       padding: 0px 4px;
+   }
+   
+   .indeximg {
+       padding: 4px 0px;
+       transition: transform .2s;
+   }
+   
+   .indeximg:hover {
+       transform: scale(1.5);
+   }
+   
+   .artistgallery {
+       color: orange;
+   }
