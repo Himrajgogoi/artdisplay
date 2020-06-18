@@ -7,7 +7,7 @@
    
    .row-content {
        margin: 0px auto;
-       padding: 50px 0px 50px 0px;
+       padding: 50px 0px 20px 0px;
        min-height: 400px;
    }
    
@@ -72,7 +72,7 @@
    }
    
    #digital {
-       background-image: url(https://images.pexels.com/photos/917494/pexels-photo-917494.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+       background-image: url(https://images.pexels.com/photos/509880/pexels-photo-509880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
        background-size: cover;
        background-repeat: no-repeat;
        background-position: center center;
@@ -112,7 +112,7 @@
    }
    
    .flex-column {
-       max-width: 40%;
+       max-width: 25%;
        padding: 0px 4px;
    }
    
@@ -121,10 +121,14 @@
        transition: transform .2s;
    }
    
-   .indeximg:hover {
-       transform: scale(1.5);
+   #biswa {
+       color: orange;
    }
    
-   .artistgallery {
-       color: orange;
+   #meghna {
+       color: yellow;
+   }
+   
+   .index {
+       max-width: 40%;
    }
