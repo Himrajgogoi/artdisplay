@@ -16,7 +16,7 @@
         "usemin": "usemin contactus.html -d dist --htmlmin -o dist/contactus.html && usemin artists.html -d dist --htmlmin -o dist/artists.html && usemin digitalillustrations.html -d dist --htmlmin -o dist/digitalillustrations.html && usemin oilpaintings.html -d dist --htmlmin -o dist/oilpaintings.html && usemin sketches.html -d dist --htmlmin -o dist/sketches.html && usemin watercolor.html -d dist --htmlmin -o dist/watercolor.html && usemin index.html -d dist --htmlmin -o dist/index.html",
         "build": "npm run clean && npm run imagemin && npm run copyfonts && npm run usemin"
     },
-    "author": "",
+    "author": "Himraj Gogoi",
     "license": "ISC",
     "devDependencies": {
         "aos": "^2.3.4",
